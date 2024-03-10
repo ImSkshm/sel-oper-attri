@@ -1,0 +1,44 @@
+------- attributes in JavaScript -------------
+
+id: Represents a unique identifier for an HTML element.
+
+class: Specifies one or more class names for an HTML element.
+
+style: Defines inline CSS styles for an HTML element.
+
+src: Specifies the URL of an external script or image.
+
+href: Specifies the URL of the linked resource, typically used with <a> elements.
+
+alt: Specifies an alternate text for an image, used when the image cannot be displayed.
+
+title: Specifies extra information about an element, often displayed as a tooltip.
+
+value: Specifies the value of an input element, such as text input, radio button, checkbox, etc.
+
+name: Represents the name of an HTML element, typically used in form submissions.
+
+type: Specifies the type of an input element, such as text, checkbox, radio, etc.
+
+disabled: Indicates whether an element is disabled or not.
+
+readonly: Indicates whether an input field is read-only or not.
+
+checked: Indicates whether a checkbox or radio button is checked or not.
+
+selected: Indicates whether an option in a <select> element is selected or not.
+
+placeholder: Specifies a short hint that describes the expected value of an input field.
+
+maxlength: Specifies the maximum number of characters allowed in an input field.
+
+min: Specifies the minimum value of an input field (for input types like number, date, etc.).
+
+max: Specifies the maximum value of an input field (for input types like number, date, etc.).
+
+required: Indicates whether an input field must be filled out before submitting the form.
+
+autocomplete: Specifies whether an input field should have autocomplete enabled or disabled.
+
+
+These are just some of the attributes commonly used in HTML elements, and they can be accessed and manipulated using JavaScript to dynamically change the behavior or appearance of web pages.

@@ -1,0 +1,14 @@
+----------- Selectors in JavaScript --------------
+
+
+getElementById(): Selects an element based on its ID attribute.
+
+getElementsByClassName(): Selects elements based on their class name.
+
+getElementsByTagName(): Selects elements based on their tag name.
+
+querySelector(): Selects the first element that matches a specified CSS selector.
+
+querySelectorAll(): Selects all elements that match a specified CSS selector.
+
+getElementsByName(): Selects elements based on their name attribute (commonly used with form elements).
